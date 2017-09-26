@@ -1,17 +1,23 @@
 # Reduca Anställningsprov
-#### Frågor
-_Vilket operativsystem jobbar du i?_
+## Frågor
+**Vilket operativsystem jobbar du i?**  
+Jag jobbar i windows (windows 10)
 
-_Har du några hobbyprojekt inom programmering?_
+**Har du några hobbyprojekt inom programmering?**  
+De projekt jag jobbat på har vart projekt via skolan. Vi har gjort diverse mindre projekt som att spel till arduino/chipkit etc.
 
-_Har du linuxvana?_
+**Har du linuxvana?**  
+Jag har ingen linuxvana i dagsläget.
 
-_Använder du versionshantering? (git eller liknande)_
+**Använder du versionshantering? (git eller liknande)**  
+Jag har endast främst använt Github (Github enterprise) för skolprojekt samt grupparbeten. 
 
-_Vilket eller vilka programmeringsspråk känner du dig mest bekväm i?_ 
+**Vilket eller vilka programmeringsspråk känner du dig mest bekväm i?**  
+Jag har främst programerat i Java samt i SQL.
 
-_När du programmerar,vilket program skriver du koden i? (visual studio, intellij, eclipse eller liknande)_
+**När du programmerar,vilket program skriver du koden i? (visual studio, intellij, eclipse eller liknande)**  
+Jag använder intellij som IDE i dagsläget.
 
-__Uppgifter__
+***Uppgifter***
 - [x] 1. **Palindrome Program** _(A basic program to determine if a string is palindrome.)_
 - [x] 2. **Flatten Array** _(A basic program to flatten an array of arbitrary depth.)_
