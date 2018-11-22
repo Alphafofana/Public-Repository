@@ -1,4 +1,5 @@
-# Reduca Anställningsprov
+# Anställningsprov
+<!---
 ## Frågor
 **Vilket operativsystem jobbar du i?**  
 Jag jobbar i windows (windows 10)
@@ -21,3 +22,4 @@ Jag använder intellij som IDE i dagsläget.
 ***Uppgifter***
 - [x] 1. **Palindrome Program** _(A basic program to determine if a string is palindrome.)_
 - [x] 2. **Flatten Array** _(A basic program to flatten an array of arbitrary depth.)_
+-->
